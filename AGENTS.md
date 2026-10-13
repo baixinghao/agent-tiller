@@ -19,7 +19,7 @@ summary: 项目入口：代码地图与治理索引（接入后按项目填写�
 | 技术栈 | {如 Spring Boot 3.x / MyBatis-Plus / Redisson / Spring AMQP} |
 | JDK/构建 | {如 JDK 21, Maven 多模块} |
 | 数据库 | {如 MySQL (生产) / H2 (本地)} |
-| 架构 | COLA 四层 DDD (interfaces → application → domain ← infrastructure) |
+| 架构 | {你的架构风格}（框架自带 COLA 四层 DDD 示例规则包：interfaces → application → domain ← infrastructure，可整体替换） |
 | 现状 | {如 user 模块已完成 DDD 化，作为分层标杆；order 模块正常开发中} |
 
 ---

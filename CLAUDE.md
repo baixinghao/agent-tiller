@@ -20,7 +20,7 @@ summary: 项目唯一入口：意图路由SSOT与全生命周期分派
 | 后端 | {技术栈，如 Spring Boot 3.3.5, MyBatis-Plus 3.5.9, Redisson, Spring AMQP} |
 | JDK/构建 | {如 JDK 21, Maven 多模块} |
 | 数据库 | {如 MySQL (生产) / H2 (本地开发)} |
-| 架构 | COLA 四层 DDD (interfaces → application → domain ← infrastructure) |
+| 架构 | {你的架构风格}（框架自带 COLA 四层 DDD 示例规则包：interfaces → application → domain ← infrastructure，可整体替换，见 README「架构无关性」） |
 | 现状 | {如：order 模块 DDD 重构已完成（作为分层标杆）；项目处于正常功能开发阶段} |
 
 ---
